@@ -38,13 +38,6 @@ Demo Video
 
 https://github.com/user-attachments/assets/6371ca98-238d-4abb-82c4-c8830b1b3303
 
-
-Screenshots
-![Screenshot (184)](https://github.com/user-attachments/assets/d6084437-d992-4fb5-8978-b25847774547)
-![Screenshot (185)](https://github.com/user-attachments/assets/c64e13f9-71c4-4367-a999-086288f3f9c8)
-![Screenshot (182)](https://github.com/user-attachments/assets/e3bb4a9b-9a44-437b-a0b9-3b5b733dde3d)
-![Screenshot (183)](https://github.com/user-attachments/assets/465daf04-b50e-4846-9b5a-95cc7047c9b8)
-
 Technologies Used
 
 Backend: Node.js, Express.js
@@ -129,11 +122,14 @@ python Postgres_data.py
 
 The terminal will display recommendations based on the provided input.
 
-Demo Video
-
-A demo video showcasing the project is attached here.
-
 Screenshots
+![Screenshot (184)](https://github.com/user-attachments/assets/d6084437-d992-4fb5-8978-b25847774547)
+
+![Screenshot (185)](https://github.com/user-attachments/assets/c64e13f9-71c4-4367-a999-086288f3f9c8)
+
+![Screenshot (182)](https://github.com/user-attachments/assets/e3bb4a9b-9a44-437b-a0b9-3b5b733dde3d)
+
+![Screenshot (183)](https://github.com/user-attachments/assets/465daf04-b50e-4846-9b5a-95cc7047c9b8)
 
 Terminal Outputs from Machine Learning Model Screenshot (185) Screenshot (184) Screenshot (183) Screenshot (182)
 
